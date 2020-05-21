@@ -2,4 +2,4 @@
 
 A business landing page template
 
-Demo: fusion-landing-template.netlify.app
+Demo: https://fusion-landing-template.netlify.app/
